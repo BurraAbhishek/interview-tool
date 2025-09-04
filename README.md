@@ -1,7 +1,10 @@
 # interview-tool
-A rework of PeterTKD/interview-tool
+A simple Streamlit application that helps in preparing for interviews.
 
-# Model use
+# Overview
+Once you enter the required details, the model will generate 5 interview questions. Once you answer them, it will provide feedback based on your responses.
+
+# Models used
 Model: `gpt-4o`
 
 Moderations: `omni-moderation-latest`
